@@ -1,7 +1,7 @@
 # 📧 Spam Email Classifier (SVM + NLP)
 
 A machine learning project that classifies emails as **Spam** or **Ham (Not Spam)** using **Natural Language Processing (NLP)** and **Support Vector Machine (SVM)**.  
-The model achieved an accuracy of **97.8%** on the test dataset.
+The model achieved an accuracy of **98.07%** on the test dataset.
 
 
 
@@ -9,7 +9,7 @@ The model achieved an accuracy of **97.8%** on the test dataset.
 - Preprocessing of raw email text for cleaner and more meaningful features.
 - Vectorization using **TF-IDF** to convert text into numerical form.
 - Classification using **Support Vector Machine (SVC)**.
-- High accuracy (**97.8%**) in detecting spam emails.
+- High accuracy (**98.07%**) in detecting spam emails.
 - Ready to predict on unseen emails.
 
 
